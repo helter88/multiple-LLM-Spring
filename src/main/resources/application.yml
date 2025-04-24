@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: multiple-LLM
+  ai:
+    chat:
+      client:
+        enabled: false
